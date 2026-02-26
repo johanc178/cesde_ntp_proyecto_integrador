@@ -21,8 +21,8 @@ El README **debe** contener **todos** estos apartados en este orden (personaliza
 **Objetivos Específicos**  
 - [OE1 – descripción clara]  
 - [OE2 – descripción clara]  
-- [OE3 – descripción clara]  
-- [OE4 – descripción clara]  
+- [OE4 – descripción clara - Implementar un sistema que divida los cursos en categorías (cortos, medianos y largos) para facilitar la búsqueda y selección según el tiempo disponible del usuario.]  
+- [OE5 - Incorporar calificaciones y comentarios de los estudiantes para cada curso y profesor, garantizando transparencia y confianza en la calidad del contenido]
 (Mínimo 3–5 objetivos específicos)
 
 ## Alcance del Proyecto (Scope)

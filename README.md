@@ -94,40 +94,4 @@ Permite la gestión financiera tanto para miembros como para administradores.
 *Diagrama inicial del modelo de dominio – versión 1. Se actualizará en futuras entregas.*
 
 
-    USUARIO {
-        int id_usuario PK
-        varchar (80) nombre
-        varchar (80) apellido
-        varchar (10)documento
-        varchar (250)correo
-        int (8)contraseña
-    }
-
-    CURSO {
-        int id_curso PK
-        varchar (250) nombre_curso
-        text (350) descripcion
-        float (10,0) precio
-        varchar (90) intensidad
-    }
-
-    INSCRIPCION {
-        int id_inscripcion PK
-        int id_usuario FK
-        int id_curso FK
-        date fecha_inscripcion
-    }
-
-    CERTIFICADO {
-        int id_certificado PK
-        int id_usuario FK
-        int id_curso FK
-        date fecha_emision
-    }
-
-    USUARIO ||--o{ INSCRIPCION : "realiza"}
-    CURSO  ||--o{ INSCRIPCION : "tiene"}
-    USUARIO ||--o{ CERTIFICADO : "obtiene"}
-    CURSO  ||--o{ CERTIFICADO : "otorga"}
-
 

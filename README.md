@@ -88,7 +88,7 @@ Permite la gestión financiera tanto para miembros como para administradores.
 
 ## Diagrama de Clases del Dominio (v1)
 
-![Diagrama de Dominio v1](pages\images\Captura de pantalla 2026-02-28 100147.png)  
+![Diagrama de Dominio v1](docs\diagrama-dominio-v1.png)  
 *Diagrama inicial del modelo de dominio – versión 1. Se actualizará en futuras entregas.*
 
 

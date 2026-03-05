@@ -26,15 +26,15 @@ es hacer una plataforma donde la monetizacion directa y el aprendizaje independi
 ## Objetivos
 
 **Objetivo General**  
-[Diseñar y desarrollar una plataforma digital integral que permita la creación, gestión y monetización de comunidades en línea, proporcionando a los creadores herramientas intuitivas y escalables para organizar contenidos, fomentar la interacción activa y construir relaciones sostenibles con sus usuarios, al mismo tiempo que se garantiza una experiencia participativa, segura y personalizada para los miembros, impulsando así la generación de valor económico, social y creativo dentro del ecosistema digital.]
+Diseñar y desarrollar una plataforma digital integral que permita la creación, gestión y monetización de comunidades en línea, proporcionando a los creadores herramientas intuitivas y escalables para organizar contenidos, fomentar la interacción activa y construir relaciones sostenibles con sus usuarios, al mismo tiempo que se garantiza una experie
 
 **Objetivos Específicos**  
 
-- [OE1 – descripción clara - Implementar un sistema que divida los cursos en categorías (cortos, medianos y largos) para facilitar la búsqueda y selección según el tiempo disponible del usuario.]  
-- [OE2 - Incorporar calificaciones y comentarios de los estudiantes para cada curso y profesor, garantizando transparencia y confianza en la calidad del contenido]
-- [OE3 – Implementar una plataforma de gestión de aprendizaje (LMS) que permita la reproducción de contenidos multimedia y  el seguimiento del progreso académico del estudiante de forma automatizada.]  
-- [OE4 – Crear una interfaz intuitiva y responsiva que facilite la navegación, permitiendo que la compra y el inicio de un curso se realicen de manera fluida en pocos pasos.]  
-- [OE5 – Desarrollar un módulo de gestión de pagos que habilite a los profesores la publicación de contenidos previo pago de una tarifa de suscripción o derecho de piso en la plataforma.]   
+- OE1 – descripción clara - Implementar un sistema que divida los cursos en categorías (cortos, medianos y largos) para facilitar la búsqueda y selección según el tiempo disponible del usuario.
+- OE2 - Incorporar calificaciones y comentarios de los estudiantes para cada curso y profesor, garantizando transparencia y confianza en la calidad del contenido
+- OE3 – Implementar una plataforma de gestión de aprendizaje (LMS) que permita la reproducción de contenidos multimedia y  el seguimiento del progreso académico del estudiante de forma automatizada.
+- OE4 – Crear una interfaz intuitiva y responsiva que facilite la navegación, permitiendo que la compra y el inicio de un curso se realicen de manera fluida en pocos pasos.]  
+- OE5 – Desarrollar un módulo de gestión de pagos que habilite a los profesores la publicación de contenidos previo pago de una tarifa de suscripción o derecho de piso en la plataforma.
 
 
 ## Alcance del Proyecto (Scope)
